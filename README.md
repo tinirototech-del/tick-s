@@ -1,1 +1,1 @@
-# pixoticker_compact
+# tick-s
