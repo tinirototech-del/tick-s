@@ -1,5 +1,5 @@
 {
   "canary_percent": 10,
-  "canary_tag": "v2.0.4",
-  "stable_tag": "v2.0.3"
+  "canary_tag": "v2.0.1",
+  "stable_tag": "v2.0.0"
 }
